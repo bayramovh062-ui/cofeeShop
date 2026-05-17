@@ -27,18 +27,20 @@ Requests Library (For fetching external API data via HTTP requests)
 JSON Module (Built-in library used for data deserialization)
 
 💻 How to Run
-1.Clone this repository to your local machine
+1.Clone this repository to your local machine:
+    Bash
+    git clone [https://github.com/istifadeci_adiniz/coffee-shop-calculator.git](https://github.com/istifadeci_adiniz/coffee-shop-calculator.git)
 
 2.Install the required dependencies:
-    bash
+    Bash
     pip install requests
 3.Run the script:
-    bash
+    Bash
     python coffeeshop.py
 
 🎯 Expected Output
 When executed successfully, the program will process the data and display the calculated weekly revenue in the console:
-    plaintext
+    Plaintext
     Total Weekly Earnings: 1897.25
 
 
