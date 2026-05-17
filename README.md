@@ -35,6 +35,7 @@ The application processes structured JSON data formatted as follows:
   }
 }
 
+
 🛠️ Technologies Used
 Python 3.x
 
