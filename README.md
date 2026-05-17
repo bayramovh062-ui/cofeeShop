@@ -19,23 +19,6 @@ The codebase is completely modularized into dedicated functions to ensure readab
 
 ---
 
-## 📊 Data Structure Sample
-
-The application processes structured JSON data formatted as follows:
-```json
-{
-  "prices": { 
-    "americano": 2.50, 
-    "san_sebastian": 5.50 
-  },
-  "monday": {
-    "drinks": { "americano": 3 },
-    "desserts": { "san_sebastian": 3 },
-    "tips": 13.00
-  }
-}
-
-
 🛠️ Technologies Used
 Python 3.x
 
@@ -57,3 +40,23 @@ JSON Module (Built-in library used for data deserialization)
 When executed successfully, the program will process the data and display the calculated weekly revenue in the console:
     plaintext
     Total Weekly Earnings: 1897.25
+
+
+## 📊 Data Structure Sample
+
+The application processes structured JSON data formatted as follows:
+```json
+{
+  "prices": { 
+    "americano": 2.50, 
+    "san_sebastian": 5.50 
+  },
+  "monday": {
+    "drinks": { "americano": 3 },
+    "desserts": { "san_sebastian": 3 },
+    "tips": 13.00
+  }
+}
+
+
+
